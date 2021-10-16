@@ -1,4 +1,4 @@
-<h1 align="center">Simple Blog</p>
+# Simple Blog
 
 ## About simple blog
 
@@ -6,7 +6,7 @@ simple blog is a web application enable you to view categories and its posts and
 
 
 
-- [Laravel 5.5](https://laravel.com/) as backend.
+- [Laravel 5.6](https://laravel.com/) as backend.
 - [Adminlte dashboard](https://adminlte.io/).
 - [Bootstrap 3.3](https://getbootstrap.com/docs/3.3).
 - Javascript and [Jquery-3.2.1](https://code.jquery.com/jquery-3.2.1.min.js).
@@ -56,7 +56,7 @@ simple blog is a web application enable you to view categories and its posts and
 
 ## [Server Requirements](https://laravel.com/docs/5.5/installation) 
 - Apache Web Server 
-- PHP >= 7.0.0
+- PHP >= 7.1
 - OpenSSL PHP Extension
 - PDO PHP Extension
 - Mbstring PHP Extension
@@ -85,7 +85,7 @@ then copy and paste the following commands <br/>
 ``php artisan migrate`` <br/>
 ``php artisan migrate`` <br/>
 ``php artisan db:seed `` <br/>
-``php artisan serv `` <br/>
+``php artisan serve `` <br/>
 then open the url: http://localhost:8000 and here we go.
 
 ## Demo
